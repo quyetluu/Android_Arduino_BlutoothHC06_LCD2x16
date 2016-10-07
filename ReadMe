@@ -1,0 +1,5 @@
+Aduino_Control_Code : Aduino code
+Bluetooth_Aduino_Control: Android app control
+Aduino_and_HC06.jpg:  schematic connection with Bluetooth HC-06 
+LCD_Base.png: schematic connection with LCD
+LED : Pin 13 to GND
